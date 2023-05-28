@@ -36,6 +36,6 @@ function restar($num1, $num2) {
 /**
  * Anotacion solo visible en la documentacion para desarrolladores.
  *
- * {internal Esta anotacion solo debe ser visible en la documentacion para desarrolladores.
+ * @internal Esta anotacion solo debe ser visible en la documentacion para desarrolladores.
  */
 ?>
